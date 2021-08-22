@@ -2,7 +2,7 @@
 
 ![Header Banner](/assets/header-banner.gif)
 
-<div align="center">
+<div align="center" id='let-connect'>
  <p>Let's Connect</p>
  <a href="https://twitter.com/aizazahmad0"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/></a>
  <a href="https://www.linkedin.com/in/aizazahmad0/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/></a>
@@ -11,17 +11,19 @@
  <a href="mailto:muhammadaizazahmad0@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a>
 </div>
 
-<h2>About Me <a href="./assets/Aizaz Ahmad Resume v2.pdf"><img align="right" src="https://img.shields.io/static/v1?label=&message=MY+RESUME&color=FFFFFF&style=for-the-badge" /></a></h2>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h2>About Me <a href="./assets/Aizaz Ahmad Resume v2.pdf"><img align="right" src="https://img.shields.io/static/v1?label=&message=MY+RESUME&color=FFFFFF&style=for-the-badge" />
+</a><a href="https://www.fiverr.com/aizaz_ahmad_90"><img align="right" src="https://img.shields.io/static/v1?&label=&message=My%20Fiverr%20Profile&color=black&style=for-the-badge&logo=fiverr" /></a></h2>
 
-## 👨🏻‍💻 Languages & Tools I am Using & Learning
+- 🔭 Currently working as a Freelance Web Developer at Fiverr.
+- 💚 In Love with ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs)
+- 💻 Highly Interested in MEVN Stack.
+- 🌱 I’m currently learning Vue.js and MongoDB
+- 🙋‍♂️ Former Web Developer Lead at GDSC PUCIT
+- 💬 Ask me anything about the technologies and tools I'm Using, I will be glad to help
+- 📫 How to reach me: <a href="#let-connect">Social Media Accounts</a>
+
+
+## 👨🏻‍💻 Technologies & Tools I am Using & Learning
 #### Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)

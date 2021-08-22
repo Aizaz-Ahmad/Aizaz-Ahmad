@@ -1,9 +1,10 @@
 ## Hello, Folks <img width="40" height="40" src="assets/wave.gif" alt="Waving hand animated gif" />
 
-![Profile Visitor](https://gpvc.arturio.dev/Aizaz-Ahmad)
 ![Header Banner](/assets/header-banner.gif)
 
-<div align="center"> <a href="https://twitter.com/aizazahmad0"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/></a>
+<div align="center">
+ <img src="https://gpvc.arturio.dev/Aizaz-Ahmad" />
+ <a href="https://twitter.com/aizazahmad0"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/></a>
  <a href="https://www.linkedin.com/in/aizazahmad0/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/></a>
  <a href="https://www.facebook.com/aizazahmad0/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/></a>
  <a href="https://www.instagram.com/m.aizazahmad/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/></a>

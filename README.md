@@ -1,17 +1,25 @@
-## Hello, Folks <img width="40" height="40" src="assets/wave.gif" alt="Waving hand animated gif" />
+## Hello, Folks <img width="40" height="40" src="assets/wave.gif" alt="Waving hand animated gif" />, I'm
 
 ![Header Banner](/assets/header-banner.gif)
 
 <div align="center">
- <img src="https://gpvc.arturio.dev/Aizaz-Ahmad" />
+ <p>Let's Connect</p>
  <a href="https://twitter.com/aizazahmad0"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/></a>
  <a href="https://www.linkedin.com/in/aizazahmad0/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/></a>
  <a href="https://www.facebook.com/aizazahmad0/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/></a>
  <a href="https://www.instagram.com/m.aizazahmad/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/></a>
  <a href="mailto:muhammadaizazahmad0@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a>
- </div>
+</div>
 
-<h2>About Me</h2>
+<h2>About Me <a href=""><img align="right" src="https://img.shields.io/static/v1?label=&message=MY+RESUME&color=FFFFFF&style=for-the-badge" /></a></h2>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 ## 👨🏻‍💻 Languages & Tools I am Using & Learning
 #### Programming Languages

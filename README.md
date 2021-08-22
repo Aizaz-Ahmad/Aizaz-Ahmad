@@ -15,12 +15,12 @@
 </a><a href="https://www.fiverr.com/aizaz_ahmad_90"><img align="right" src="https://img.shields.io/static/v1?&label=&message=My%20Fiverr%20Profile&color=black&style=for-the-badge&logo=fiverr" /></a></h2>
 
 - 🔭 Currently working as a Freelance Web Developer at Fiverr.
-- 💚 In Love with ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs)
+- 💚 In Love with Vue.js
 - 💻 Highly Interested in MEVN Stack.
 - 🌱 I’m currently learning Vue.js and MongoDB
 - 🙋‍♂️ Former Web Developer Lead at GDSC PUCIT
 - 💬 Ask me anything about the technologies and tools I'm Using, I will be glad to help
-- 📫 How to reach me: <a href="#let-connect">Social Media Accounts</a>
+- 📫 How to reach me: Contact me on Any <a href="#let-connect">Social Media Account</a>
 
 
 ## 👨🏻‍💻 Technologies & Tools I am Using & Learning

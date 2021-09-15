@@ -27,7 +27,9 @@
 
 ---
 
-### 👨🏻‍💻 Technologies & Tools I am Using & Learning
+<details>
+<summary><big><strong>👨🏻‍💻 Technologies & Tools I am Using & Learning</strong></big></summary>
+
 #### Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -63,19 +65,28 @@
   
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)&nbsp;![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
+</details>
+
 ---
 
-### Stats
+<details>
+<summary><big><strong>Stats</big></summary>
     
 [![Stats](https://github-readme-stats.vercel.app/api?username=Aizaz-Ahmad&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=My%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aizaz-Ahmad&layout=compact&theme=radical&custom_title=Most%20Used%20Languages%20In%20Repos&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+</details>
+
 ---
-### Training Sessions that I have Conducted
+
+<details>
+<summary><big><strong>Training Sessions that I have Conducted</big></summary>
 
 - [Intro To HTML | WebCamp Day 1](https://www.youtube.com/watch?v=I7k6RgHxCsw&list=PLwIOLsJsSI0K9XCgaBWKxRnYTv6n6hLia&index=1)
 - [Intro To CSS | WebCamp Day 2](https://www.youtube.com/watch?v=I7k6RgHxCsw&list=PLwIOLsJsSI0K9XCgaBWKxRnYTv6n6hLia&index=2)
 - [Building a Portfolio Web | WebCamp Day 3](https://www.youtube.com/watch?v=I7k6RgHxCsw&list=PLwIOLsJsSI0K9XCgaBWKxRnYTv6n6hLia&index=3)
 - [Intro to Javascript | WebCamp Day 4](https://www.youtube.com/watch?v=I7k6RgHxCsw&list=PLwIOLsJsSI0K9XCgaBWKxRnYTv6n6hLia&index=4)
 - [Mastering JS 1.0 | WebCamp Day 5](https://www.youtube.com/watch?v=I7k6RgHxCsw&list=PLwIOLsJsSI0K9XCgaBWKxRnYTv6n6hLia&index=5)
+
+</details> 
 
 ---

@@ -90,3 +90,8 @@
 </details> 
 
 ---
+ 
+### Extra Pins
+[![vuebin](https://github-readme-stats.vercel.app/api/pin/?username=Aizaz-Ahmad&repo=vuebin&theme=dark)](https://github.com/Aizaz-Ahmad/vuebin)
+
+---

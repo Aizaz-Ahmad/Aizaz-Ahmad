@@ -1,6 +1,6 @@
-## Hello World <img width="40" height="40" src="assets/wave.gif" alt="Waving hand animated gif" />, I'm <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=Aizaz-Ahmad.Aizaz-Ahmad" />
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=Aizaz-Ahmad.Aizaz-Ahmad" /><br />
 
-![Header Banner](/assets/header-banner.gif)
+![Header Banner](/assets/updated-header-banner.gif)
 
 <div align="center" id='let-connect'>
  <p>Let's Connect</p>

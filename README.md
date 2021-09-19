@@ -92,6 +92,11 @@
 ---
  
 ### Extra Pins
-[![vuebin](https://github-readme-stats.vercel.app/api/pin/?username=Aizaz-Ahmad&repo=vuebin&theme=dark)](https://github.com/Aizaz-Ahmad/vuebin)
-
+<a href="https://github.com/Aizaz-Ahmad/vuebin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aizaz-Ahmad&repo=vuebin&theme=dark" />
+</a>
+<a href="https://github.com/Aizaz-Ahmad/vuex-ultramini">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Aizaz-Ahmad&repo=vuex-ultramini&theme=dark" />
+</a>
+ 
 ---

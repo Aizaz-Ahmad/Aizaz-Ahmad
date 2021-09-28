@@ -70,7 +70,7 @@
 ---
 
 <details>
-<summary><big><strong>Stats</big></summary>
+<summary><big><strong>📈 Stats</big></summary>
     
 [![Stats](https://github-readme-stats.vercel.app/api?username=Aizaz-Ahmad&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=My%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aizaz-Ahmad&layout=compact&theme=radical&custom_title=Most%20Used%20Languages%20In%20Repos&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -79,7 +79,7 @@
 ---
 
 <details>
-<summary><big><strong>Blogs</big></summary>
+<summary><big><strong>📝 Blogs</big></summary>
 
 - [Compress Folders like a PRO (Window)](https://dev.to/aizazahmad/compress-folders-like-a-pro-window-1ngb)
 </details> 
@@ -88,7 +88,7 @@
 ---
 
 <details>
-<summary><big><strong>Training Sessions that I have Conducted</big></summary>
+<summary><big><strong>📹 Training Sessions that I have Conducted</big></summary>
 
 - [Intro To HTML | WebCamp Day 1](https://www.youtube.com/watch?v=I7k6RgHxCsw&list=PLwIOLsJsSI0K9XCgaBWKxRnYTv6n6hLia&index=1)
 - [Intro To CSS | WebCamp Day 2](https://www.youtube.com/watch?v=I7k6RgHxCsw&list=PLwIOLsJsSI0K9XCgaBWKxRnYTv6n6hLia&index=2)

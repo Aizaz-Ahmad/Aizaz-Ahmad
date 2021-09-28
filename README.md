@@ -79,6 +79,15 @@
 ---
 
 <details>
+<summary><big><strong>Blogs</big></summary>
+
+- [Compress Folders like a PRO (Window)](https://dev.to/aizazahmad/compress-folders-like-a-pro-window-1ngb)
+</details> 
+
+
+---
+
+<details>
 <summary><big><strong>Training Sessions that I have Conducted</big></summary>
 
 - [Intro To HTML | WebCamp Day 1](https://www.youtube.com/watch?v=I7k6RgHxCsw&list=PLwIOLsJsSI0K9XCgaBWKxRnYTv6n6hLia&index=1)

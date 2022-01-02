@@ -13,7 +13,7 @@
 
 ---
 
-<h3>About Me <a href="./assets/Aizaz Ahmad Resume v2.pdf"><img align="right" src="https://img.shields.io/static/v1?label=&message=MY+RESUME&color=FFFFFF&style=for-the-badge" />
+<h3>About Me <a href="./assets/Aizaz-Ahmad-Resume-v3.pdf"><img align="right" src="https://img.shields.io/static/v1?label=&message=MY+RESUME&color=FFFFFF&style=for-the-badge" />
 </a><a href="https://www.fiverr.com/aizaz_ahmad_90"><img align="right" src="https://img.shields.io/static/v1?&label=&message=My%20Fiverr%20Profile&color=black&style=for-the-badge&logo=fiverr" /></a></h3>
 
 - 🔭 Currently working as a Freelance Web Developer at Fiverr.
